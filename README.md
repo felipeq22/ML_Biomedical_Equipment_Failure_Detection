@@ -1,4 +1,4 @@
-#Classic_Machine_Learnin_Biomedical_Equipment_Failure_Detection
+# Classic_Machine_Learnin_Biomedical_Equipment_Failure_Detection
 
 MACHINE LEARNING MODEL DEVELOPMENT METHODOLOGY
 
